@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Pursuing an M.S. degree in Physics with minors in Mathematics and Quantum Computing, I am driven to put my education to use and committed to bringing it to the forefront of scientific innovation and economic development. My goal is to revolutionize the quantum industry through passionate research and innovation. I envision a future where quantum technology drastically optimizes deep space algorithms, allowing humanity to benefit from space exploration at its fullest potential.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
